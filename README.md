@@ -1,6 +1,10 @@
-# hello-world
-first time
+-# hello-world
+-first time
+-<<<<<<< main
 
-public static void main(String[] args){
+=======
+#Hello
+->>>>>>> readme-edits
++public static void main(String[] args){
 
 }
